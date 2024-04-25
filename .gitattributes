@@ -1,0 +1,5 @@
+# Exclude directories
+path/to/directory/* linguist-vendored=false
+
+# Exclude specific file types
+*.html linguist-vendored=false
